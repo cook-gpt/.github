@@ -4,7 +4,9 @@
 
 # CookGPT
 
-**Recipes, weekly meal planning, and smart grocery lists — with step timers on your Lock Screen while you cook.**
+**CookGPT - Gourmet Plan & Track**
+
+Recipes, weekly meal planning, and smart grocery lists — with step timers on your Lock Screen while you cook.
 
 <p>
   <a href="https://apps.apple.com/us/app/cookgpt-recipes-meals/id6805535867"><strong>App Store</strong></a>
@@ -24,7 +26,7 @@
 
 ---
 
-CookGPT is a native **SwiftUI** app for iPhone and iPad. Browse and edit recipes, plan meals by day or week, generate grocery lists from your schedule, and run step timers with **Live Activities** on the Lock Screen and Dynamic Island — all with your data kept on device.
+**CookGPT - Gourmet Plan & Track** is a native **SwiftUI** app for iPhone and iPad. Browse and edit recipes, plan meals by day or week, generate grocery lists from your schedule, and run step timers with **Live Activities** on the Lock Screen and Dynamic Island — all with your data kept on device.
 
 ### Features
 
